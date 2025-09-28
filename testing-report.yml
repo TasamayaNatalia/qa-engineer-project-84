@@ -52,40 +52,40 @@
 
 - summary: |
     Проверка возможности переключения языка интерфейса
-     status: 
+     status: pass
 
 - summary: |
     Проверка возможности перевода информации на сайте на русский язык
-     status: 
+     status: fail
 
 
 - summary: |
     Проверка возможности перевода информации на сайте на английский язык
-     status: 
+     status: pass
  
 
 - summary: |
     Проверка совместимости с последей версией браузера Google Chrome
-     status: 
+     status: pass
 
 
 - summary: |
     Проверка совместимости с версией браузера Mozilla Firefox
-     status: 
+     status: pass
 
 - summary: |
     Проверка совместимости с версией браузера Safari
-     status: 
+     status: pass
 
 - summary: |
     Проверка совместимости с версией браузера Яндекс Браузер
-     status: 
+     status: pass
 
 - summary: |
     Проверка доступности сайта на различных устройствах
-     status: 
+     status: fail
 
 - summary: |
     Проверка корректной загрузки страницы при низкой скорости интернет соединения
-     status: 
+     status: pass
 
