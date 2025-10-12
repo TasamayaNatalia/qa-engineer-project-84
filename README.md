@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TasamayaNatalia/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/TasamayaNatalia/qa-engineer-project-84/actions)
 
-Тестирование интернет-магазина
+# Тестирование интернет-магазина
 
 Этот проект посвящен тестированию небольшого интернет-магазина, занимающегося продажей товаров. Процесс тестирования включает в себя проверку функциональной корректности, удобства использования, безопасности, отзывчивости и кроссбраузерной совместимости
 Тестируемое приложение: https://products-store-ru.hexlet.app/
