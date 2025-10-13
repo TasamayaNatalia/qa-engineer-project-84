@@ -10,131 +10,131 @@ test-cases:
 
   - summary: |
       Поиск несуществующего товара
-       status: fail
+    status: fail
 
   - summary: |
       Проверка возможности фильтрации товаров в наличии по бренду
-       status: fail
+    status: fail
     
   - summary: |
       Проверка возможности фильтрации товаров по наличию
-       status: pass
+    status: pass
      
   - summary: |
       Проверка возможности отображения всех товаров, вне зависимости от их наличия
-       status: fail
+    status: fail
      
   - summary: |
       Проверка возможности фильтрации товаров по цене
-       status: fail
+    status: fail
 
   - summary: |
       Проверка индикации об ошибке при вводе в поле цены недопустимых значений
-       status: fail
+    status: fail
      
   - summary: |
       Проверка возможности просмотра товаров
-       status: fail
+    status: fail
 
   - summary: |
       Проверка возможности пользования постраничным выбором при просмотре товаров в каталоге
-       status: fail
+    status: fail
 
   - summary: |
       Проверка динамического обновления контента (магазин является SPA-приложением)
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности просмотра подробной информации о товаре
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности добавления товара в корзину
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности выбора перехода в каталог товаров после добавления товара в корзину
-       status: pass
+    status: pass
      
   - summary: |
       Проверка возможности просмотра содержимого корзины
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности перехода в каталог товаров из корзины
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности добавления одного и того же товара в корзину в количестве нескольких штук
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности добавления нескольких различных товаров в корзину
-       status: pass
+    status: pass
 
   - summary: |
       Проверка возможности удаления товара из корзины
-       status: pass
+    status: pass
      
   - summary: |
       Проверка возможности очистки корзины
-       status: fail
+    status: fail
      
   - summary: |
       Проверка хранения товаров в корзине в сессии браузера
-       status: pass
+    status: pass
      
   - summary: |
       Проверка возможности оформления заказа
-       status: fail
+    status: fail
 
   - summary: |
       Проверка возможности закрытия окна оформления заказа
-       status: pass
+    status: pass
 
   - summary: |
       Проверка очистки корзины после оформления заказа
-       status: fail
+    status: fail
 
   - summary: |
       Проверка возможности оплаты заказа
-       status: fail
+    status: fail
      
   - summary: |
       Проверка возможности переключения языка интерфейса
-       status: pass
+    status: pass
      
   - summary: |
       Проверка возможности перевода информации на сайте на английский язык
-       status: pass
+    status: pass
      
   - summary: |
       Проверка возможности перевода информации на сайте на русский язык
-       status: fail
+    status: fail
 
   - summary: |
       Проверка совместимости с последней версией браузера Google Chrome
-       status: pass
+    status: pass
 
   - summary: |
       Проверка совместимости с последней версией браузера Mozilla Firefox
-       status: pass
+    status: pass
 
   - summary: |
       Проверка совместимости с последней версией браузера Safari
-       status: pass
+    status: pass
 
   - summary: |
       Проверка совместимости с последней версией браузера Яндекс Браузер
-       status: pass
+    status: pass
 
   - summary: |
       Проверка доступности сайта на различных устройствах
-       status: fail
+    status: fail
 
   - summary: |
       Проверка корректного отображения сайта при низкой скорости загрузки
-       status: pass
+    status: pass
 
 bugreports:
   - summary: |
